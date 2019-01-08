@@ -1,0 +1,1 @@
+This is a script to block distracting websites (as specified by the user) during user-specified times of the day. In addition to the python script, I have also included the .plist file the would need to be placed in the /LaunchDaemons directory (applicable to mac) in order for this script to run automatically whenever the computer is turned on.
