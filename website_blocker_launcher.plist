@@ -6,8 +6,8 @@
     <string>website_blocker</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Library/Frameworks/Python.framework/Versions/3.6/bin/python3</string>
-        <string>/Users/SaagarDulani/Desktop/Everything/Udemy Courses/The Python Mega Course_Build 10 Real World Applications - Ardit Sulce/9) Application 3 - Building a Website Blocker/Application Script/website_blocker.py</string>
+        <string>absolute path to where python is located on your computer goes here</string>
+        <string>absolute path to your website_blocker.py script goes here</string>
     </array>
     <key>StandardErrorPath</key>
     <string>/var/log/python_script.error</string>

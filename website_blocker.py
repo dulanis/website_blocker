@@ -6,15 +6,15 @@ websites = ["www.facebook.com",
             "facebook.com",
             "www.instagram.com",
             "instagram.com",
-            # "www.youtube.com",
-            # "youtube.com",
+            "www.youtube.com",
+            "youtube.com",
             "www.linkedin.com",
             "linkedin.com",
             "www.netflix.com",
             "netflix.com"]
 
-start_time = dt(dt.now().year, dt.now().month, dt.now().day, 3)
-stop_time = dt(dt.now().year, dt.now().month, dt.now().day, 4)
+start_time = dt(dt.now().year, dt.now().month, dt.now().day, 8)
+stop_time = dt(dt.now().year, dt.now().month, dt.now().day, 16)
 
 
 def calc_seconds_til_stop():
