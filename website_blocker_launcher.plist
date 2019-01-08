@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>website_blocker</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Library/Frameworks/Python.framework/Versions/3.6/bin/python3</string>
+        <string>/Users/SaagarDulani/Desktop/Everything/Udemy Courses/The Python Mega Course_Build 10 Real World Applications - Ardit Sulce/9) Application 3 - Building a Website Blocker/Application Script/website_blocker.py</string>
+    </array>
+    <key>StandardErrorPath</key>
+    <string>/var/log/python_script.error</string>
+    <key>KeepAlive</key>
+    <true/>
+</dict>
+</plist>
